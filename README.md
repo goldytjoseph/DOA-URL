@@ -2,7 +2,7 @@
 A lightweight, fast, and concurrent HTTP probe utility for checking if domains are alive or dead. Perfect for reconnaissance, monitoring, and security testing.
 
 # Features
-Fast Concurrent Processing: Uses asynchronous I/O and multi-threading to efficiently check multiple targets simultaneously
+Fast Concurrent Processing: Uses asynchronous I/O and multi-threading to efficiently check multiple targets simultaneously \n
 Flexible Targeting: Check a single target or scan multiple hosts from a file
 Protocol Handling: Automatically tests both HTTP and HTTPS endpoints
 Custom Request Methods: Support for GET, POST, PUT, PATCH, DELETE, OPTIONS, and HEAD requests

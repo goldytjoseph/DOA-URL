@@ -10,7 +10,7 @@ Output Organization: Save results to separate files for live and dead servers
 Randomized User Agents: Rotates through common user agents to avoid detection
 Color-Coded Output: Clear visual distinction between successful and failed probes
 
-#Arguments
+# Arguments
 target: Single IP or domain to check
 -f, --file: File containing list of IPs/domains to check
 -m, --method: HTTP request method (default: GET)

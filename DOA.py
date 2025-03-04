@@ -93,7 +93,7 @@ def main():
         targets.append(args.target)
     
     if not targets:
-        print("Usage: python httpprobe.py [target] or python httpprobe.py -f file.txt [-m METHOD] [-t THREADS] [-l live.txt] [-d dead.txt]")
+        print("Usage: python3 DOA.py [target] or python3 DOA.py -f file.txt [-m METHOD] [-t THREADS] [-l live.txt] [-d dead.txt]")
         return
     
     start_async_processing(targets, args.method, args.live, args.dead, args.threads)
